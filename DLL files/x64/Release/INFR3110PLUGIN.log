@@ -1,0 +1,9 @@
+﻿  CheckItOutPointTimeLogger.cpp
+  GameObject.cpp
+  Main.cpp
+  theWrapper.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  INFR3110PLUGIN.vcxproj -> C:\Users\tiadr\source\repos\INFR3110PLUGIN\x64\Release\INFR3110PLUGIN.dll
